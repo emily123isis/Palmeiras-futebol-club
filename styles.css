@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #004D00; /* Verde Palmeiras */
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #007A3D; /* Verde mais claro */
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 2.5rem;
+  margin: 0;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+footer {
+  background-color: #002A1D; /* Verde escuro */
+  text-align: center;
+  padding: 10px;
+}
+
+footer p {
+  margin: 0;
+}
